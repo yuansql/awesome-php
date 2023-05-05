@@ -9,10 +9,6 @@
 
 ---
 
-刚成立了一个学习讨论群, 欢迎感兴趣的同学加入。一起讨论问题、分享技术和生活...
-
-![](https://tva1.sinaimg.cn/orj360/007S8ZIlly1ggwh1238rij30by0bymxg.jpg)
-
 ---
 
 ## 学习资源
